@@ -1,0 +1,13 @@
+{
+  "name": "social-engagement-bot",
+  "version": "3.0.0",
+  "description": "Shiftwave SMS engagement notifier — Vercel + Twilio",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.40.0",
+    "twilio": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
